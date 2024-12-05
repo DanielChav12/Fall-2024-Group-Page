@@ -1,0 +1,20 @@
+/* color */
+
+/*
+60% of #49466D - Priamary
+30% of #102847 - Secondary
+10% of #98E2E8 - Accent
+*/
+
+:root {
+
+    /* var(--dominatColor) !important; */
+    --dominatColor: #49466D;
+    
+    /* var(--secondaryColor) !important; */
+    --secondaryColor: #102847;
+    
+    /* var(--accentColor) !important; */
+    --accentColor: #98E2E8;
+    
+    }
