@@ -19,7 +19,7 @@
     font-weight: normal;
     font-size: 16px;
     padding: 20px;
-    max-height: 750px;
+    height: auto;
     margin-top: 20px;
     margin-bottom: 18px;
     font-family: "Inter", sans-serif;
@@ -29,14 +29,7 @@
     
 }
 
-.first-paragraph-img img-responsive {
-    position: relative;
-    padding: 20px;
-    scale: 50%;
-
-}
-
-.carouselslide {
+.carousel-item {
     scale: 75%;
     position: relative;
     background-color: var(--accentColor) !important;
