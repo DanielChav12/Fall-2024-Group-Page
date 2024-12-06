@@ -3,14 +3,13 @@
 @import 'main.css';
 
 .homepage {
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-left: 25;
-    padding-bottom: 25px;
-    margin-top: auto;
+    padding: 20px;
+    margin-top: 20px;
     margin-left: auto; 
     margin-right: auto;
-    margin-bottom: auto;
+    margin-bottom: 20px;
+    align-content: center;
+    scale: 75%;
 
 }
 
@@ -22,7 +21,8 @@
     font-weight: normal;
     font-size: 16px;
     padding: 20px;
-    height: 250px;
+    height: 400px;
+    max-height: 450px;
     margin-top: 20px;
     margin-bottom: 18px;
     font-family: "Inter", sans-serif;
@@ -32,7 +32,7 @@
     
 }
 
-.paragraphimage {
+.first-paragraph-img img-responsive {
     position: relative;
     padding: 20px;
     scale: 50%;
