@@ -3,15 +3,8 @@
 @import 'main.css';
 
 .homepage {
-    padding: 10px;
-    margin-top: 20px;
-    margin-left: auto; 
-    margin-right: auto;
-    margin-bottom: 20px;
-    position: center;
-    max-width: auto;
-    height: auto;
-
+position: relative;
+width: auto;
 }
 
 
