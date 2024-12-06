@@ -3,10 +3,10 @@
 @import 'main.css';
 
 .homepage {
-    padding: 20px;
+    padding: 10px;
     margin-top: 20px;
-    margin-left: auto; 
-    margin-right: auto;
+    margin-left: 10px; 
+    margin-right: 10px;
     margin-bottom: 20px;
     position: relative;
 }
@@ -18,19 +18,14 @@
     color: #000000;
     font-weight: normal;
     font-size: 16px;
-    padding: 20px;
+    padding: 10px;
     height: auto;
     margin-top: 20px;
     margin-bottom: 18px;
     font-family: "Inter", sans-serif;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 10px;
+    margin-right: 10px;
 
     
 }
 
-.carousel-item {
-    scale: 75%;
-    position: relative;
-    background-color: var(--accentColor) !important;
-}
