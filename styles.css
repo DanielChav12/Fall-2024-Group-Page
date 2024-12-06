@@ -1,0 +1,12 @@
+@import 'global.css';
+@import 'main.css';
+
+.test-font {
+color: var(--dominatColor) !important;;
+
+}
+
+.test-font-2 {
+    color: var(--dominatColor) !important;;
+    
+    }
