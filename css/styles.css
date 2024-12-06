@@ -8,9 +8,13 @@ position: relative;
 width: auto;
 }
 
+.background-section {
+    background-color: var(--secondaryColor) !important;
+    width:auto
+}
+
 
 .first-paragraph-div {
-    background-color: var(--secondaryColor) !important;
     position: relative;
     color: #ffffff;
     font-weight: normal;
