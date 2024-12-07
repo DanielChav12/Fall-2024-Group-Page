@@ -35,14 +35,14 @@ width: auto;
 }
 
 .fa-row {
-background-color: var(--dominatColor) !important;
+background-color: var(--secondaryColor) !important;
 padding: 35px;
 color:#bfbfbf;
 }
 
 .fa-row-icon {
     font-size: 70px;
-    color: #54ACBF;
+    color: var(--dominatColor) !important;
 }
 
 .fa-row-icon:hover {
