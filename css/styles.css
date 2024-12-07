@@ -27,8 +27,25 @@ width: auto;
     margin-left: 20px;
     margin-right: 20px;
     width: auto;
+}
 
-    
+.container-fluid text-center fa-row {
+  height: auto;
+}
+
+.fa-row {
+background-color: var(--dominatColor) !important;
+padding: 35px;
+color:#bfbfbf;
+}
+
+.fa-row-icon {
+    font-size: 70px;
+    color: #54ACBF;
+}
+
+.fa-row-icon:hover {
+    transform: scale(1.1);
 }
 
 
