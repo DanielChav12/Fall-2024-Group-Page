@@ -64,4 +64,20 @@
     #intro {
         font-family: "Kolker Brush";
         font-size: 80px;
-          }
+}
+
+.first-paragraph-img {
+  width: 100%;
+    }
+}
+
+.list-section {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.list-img {
+width: 300px;
+height: 300px;
+border-radius: 50%;
+}
