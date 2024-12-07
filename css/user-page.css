@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+@import 'global.css';
+@import 'main.css';
+
+.container-fluid text-center fa-row {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+   
+  }
+  
+  .fa-row {
+  background-color: var(--secondaryColor) !important;
+  padding: 35px;
+  color:#bfbfbf;
+  }
+  
+  .fa-row-icon {
+      font-size: 70px;
+      color: #ffffff;
+  }
+  
+  .fa-row-icon:hover {
+      transform: scale(1.1);
+  }
+     
+    #row-intro {
+      background-color: var(--secondaryColor) !important;
+      margin: auto;
+      max-width: 1920px;
+    }
+  
+    #image-1 {
+      padding: 10px;
+      border-radius: 35px;
+    }
+    
+    .container first-paragraph-div {
+      background-color: var(--secondaryColor) !important;
+         
+    }
+
+    #intro {
+        font-family: "Kolker Brush";
+        font-size: 80px;
+          }
