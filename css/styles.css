@@ -60,3 +60,7 @@
       background-color: var(--secondaryColor) !important;
          
     }
+
+    #intro {
+        font-family: "Kolker Brush";
+      }
