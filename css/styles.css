@@ -15,7 +15,6 @@ width: auto;
 
 
 .first-paragraph-div {
-    background-color: var(--secondaryColor) !important;
     position: relative;
     color: #ffffff;
     font-weight: normal;
@@ -42,7 +41,7 @@ color:#bfbfbf;
 
 .fa-row-icon {
     font-size: 70px;
-    color: var(--dominatColor) !important;
+    color: #ffffff;
 }
 
 .fa-row-icon:hover {
@@ -54,3 +53,6 @@ color:#bfbfbf;
   }
 
 
+  #row-background {
+    background-color: var(--secondaryColor) !important; 
+  }
