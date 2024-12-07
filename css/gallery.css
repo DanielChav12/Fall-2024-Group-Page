@@ -4,9 +4,9 @@
 @import 'main.css';
 
 #galleryArtofLife {
-    margin: auto;
-    width: 85%;
+    margin: 20px;
+    width: 75%;
     padding: 10px;
-    max-width: 1500px;
+    max-width: 1920px;
 
 }
