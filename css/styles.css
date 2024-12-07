@@ -71,7 +71,7 @@
     }
 
   @media screen and (max-width: 768px) {
-    
+
   }
 
 .list-section {
@@ -81,7 +81,12 @@ padding-bottom: 30px;
 }
 
 .list-img {
+
 width: 400px;
 height: 400px;
 border-radius: 35%;
+}
+
+.container-fluid list-section {
+  margin:auto
 }
