@@ -7,7 +7,7 @@ $( document ).ready(function() {
     $("#galleryArtofLife").nanogallery2({
  
      thumbnailHeight: "auto",
-     thumbnailWidth:  "500",
+     thumbnailWidth:  "350",
      thumbnailBorderVertical: "0",
      thumbnailBorderHorizontal: "0",
      thumnailLabel: {
