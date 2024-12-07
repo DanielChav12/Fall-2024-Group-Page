@@ -27,8 +27,7 @@ width: auto;
     margin-left: auto;
     margin-right: auto;
     width: auto;
-    background-color: var(--secondaryColor) !important; 
-}
+   }
 
 .container-fluid text-center fa-row {
   height: auto;
