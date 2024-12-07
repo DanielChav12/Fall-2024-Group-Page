@@ -8,11 +8,6 @@ position: relative;
 width: auto;
 }
 
-.background-section {
-    background-color: var(--secondaryColor) !important;
-    width:auto
-}
-
 
 .first-paragraph-div {
     position: relative;
@@ -26,7 +21,7 @@ width: auto;
     font-family: "Inter", sans-serif;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
+
    }
 
 .container-fluid text-center fa-row {
