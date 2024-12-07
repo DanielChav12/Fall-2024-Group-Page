@@ -24,3 +24,8 @@
     width: 20px !important;
     height: 20px !important;
 }
+
+#Text-label {
+    font-family: Koler Brush;
+    font-size: 40px;
+}
