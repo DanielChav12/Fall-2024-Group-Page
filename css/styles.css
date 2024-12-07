@@ -49,5 +49,8 @@ color:#bfbfbf;
     transform: scale(1.1);
 }
 
+#first-paragraph-img {
+    border-radius: 15px;
+  }
 
 
